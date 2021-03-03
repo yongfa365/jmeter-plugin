@@ -1,6 +1,3 @@
-# yongfa365-jmeter-plugin 正式在用的
-- Markdown Data Driver Controller
-
 ## 快速上手：
 
 ### yongfa365-jmeter-plugin-function-demo
